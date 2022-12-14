@@ -6,9 +6,9 @@ import './App.css';
 
 const App = () => (
   <div>
-    <Head>
+    <head>
       <title>Restaurant-Model</title>
-    </Head>
+    </head>
 
     <Navbar />
     <Header />
