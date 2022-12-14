@@ -6,6 +6,10 @@ import './App.css';
 
 const App = () => (
   <div>
+    <Head>
+      <title>Restaurant-Model</title>
+    </Head>
+
     <Navbar />
     <Header />
     <AboutUs />
