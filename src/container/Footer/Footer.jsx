@@ -12,7 +12,7 @@ const Footer = () => (
   	<div className="app__footer-links">
   		<div className="app__footer-links_contact">
   			<h1 className="app__footer-headtext">Contact Us</h1>
-  			<p className="p__opensans">Door no 8, Dubai Kurukku Sendhu, Dubai Main Road, Dubai</p>
+  			<p className="p__opensans">123 Main Street, Dubai, UAE.</p>
   			<p className="p__opensans">+1 132-312-3113</p>
   			<p className="p__opensans">+1 183-767-8675</p>
   		</div>
@@ -35,7 +35,7 @@ const Footer = () => (
   		</div>
   	</div>
   	<div className="footer__copyright">
-  		<p className="p__opensans">2021 Sudharmani. All Rights reserved</p>
+  		<p className="p__opensans">2021 Royal restaurant. All Rights reserved</p>
   	</div>
   </div>
 );
